@@ -392,9 +392,8 @@
 
 - **单人挑战**：设定目标分数、刷新个人记录
 
-![fig01](C:\Users\seeed\Desktop\Glow_Relay_byGRX\Glow_Relay\fig01.jpg)
-
-![fig02](C:\Users\seeed\Desktop\Glow_Relay_byGRX\Glow_Relay\fig02.jpg)
+![光点接力游戏截图](./fig01.jpg)
+![光点接力游戏截图](./fig02.jpg)
 
 ### 扩展思路
 
